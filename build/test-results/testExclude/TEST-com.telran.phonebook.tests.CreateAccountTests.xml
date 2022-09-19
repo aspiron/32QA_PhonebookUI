@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.phonebook.tests.CreateAccountTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-17T06:34:49" hostname="LAPTOP-VV3CO11J" time="2.965">
+  <properties/>
+  <testcase name="createAccountNegativeTestWithoutPassword" classname="com.telran.phonebook.tests.CreateAccountTests" time="0.816"/>
+  <testcase name="createAccountNegativeTestWithInvalidPassword" classname="com.telran.phonebook.tests.CreateAccountTests" time="0.95"/>
+  <system-out><![CDATA[09:34:49.054 [Test worker] INFO  com.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithoutPassword with data: []
+09:34:49.969 [Test worker] INFO  com.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithoutPassword
+09:34:49.970 [Test worker] INFO  com.telran.phonebook.tests.TestBase - ====================================
+09:34:51.079 [Test worker] INFO  com.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithInvalidPassword with data: []
+09:34:52.117 [Test worker] INFO  com.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithInvalidPassword
+09:34:52.117 [Test worker] INFO  com.telran.phonebook.tests.TestBase - ====================================
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 15647
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1663396488.504][WARNING]: This version of ChromeDriver has not been tested with Chrome version 105.
+????. 17, 2022 9:34:48 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 104.0.5112.79 (3cf3e8c8a07d104b9e1260c910efb8f383285dc5-refs/branch-heads/5112@{#1307}) on port 10987
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1663396490.630][WARNING]: This version of ChromeDriver has not been tested with Chrome version 105.
+????. 17, 2022 9:34:50 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

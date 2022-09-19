@@ -2,6 +2,8 @@ package fw;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.BrowserType;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,6 +13,12 @@ public class ApplicationManager {
     ContactHelper contact;
     HeaderHelper header;
     HomepageHelper homepage;
+
+    String browser;
+
+    public ApplicationManager(String browser) {
+        this.browser = browser;
+    }
 
     public UserHelper getUser() {
         return user;
@@ -29,7 +37,12 @@ public class ApplicationManager {
     }
 
     public void init() {
-        dr = new ChromeDriver();
+        if (browser.equals(BrowserType.CHROME)){
+            dr = new ChromeDriver();
+        } else if (browser.equals((BrowserType.FIREFOX))) {
+            dr = new FirefoxDriver();
+        }
+
         dr.get("https://contacts-app.tobbymarshall815.vercel.app/");
         dr.manage().window().maximize();
         dr.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
