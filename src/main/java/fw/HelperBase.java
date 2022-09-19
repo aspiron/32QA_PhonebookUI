@@ -120,7 +120,7 @@ public class HelperBase {
         File directory = new File("records");
         File[] files = directory.listFiles();
         for (File f: files) {
-            f.delete()
+            f.delete();
         }
     }
 
