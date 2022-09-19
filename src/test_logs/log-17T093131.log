@@ -1,0 +1,30 @@
+2285 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method loginPositiveTest with data: []
+15188 [Test worker] ERROR c.telran.phonebook.tests.TestBase - FAILED: test method loginPositiveTest Screenshot path: C:\Users\iohoh\Desktop\EDU\QA\projects_QA_Gradle\Phonebook_UI_12092022\screenshots\screen1663396306997.png
+15189 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+16312 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTest with data: []
+28937 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTest
+28938 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+30149 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [TestName, TestSurname, +797812345, email@mail.co, BerlinAdress, Description]
+42471 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProvider
+42472 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+43488 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [OnemoreName, OnemoreSurname, +797324378, mail@gmail.co, SityAdress, About]
+55741 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProvider
+55742 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+56880 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [MoreName, MoreSurname, +791059945, po4ta@mail.co, Simfero, What]
+69181 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProvider
+69181 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+71117 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver, surname=Kan, telephone=987654321, email=oliver@gm.com, address=Berlin, description=goalkiper]]
+85867 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProviderWithCsvFile
+85868 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+87366 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver1, surname=Kan, telephone=187654321, email=oliver+1@gm.com, address=Berlin, description=goalkiper]]
+102273 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProviderWithCsvFile
+102274 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+103396 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver2, surname=Kan, telephone=287654321, email=oliver+2@gm.com, address=Berlin, description=goalkiper]]
+117942 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProviderWithCsvFile
+117943 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+119238 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver3, surname=Kan, telephone=387654321, email=oliver+3@gm.com, address=Berlin, description=goalkiper]]
+133688 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method addContactPositiveTestFromDataProviderWithCsvFile
+133689 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+135056 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method removeContactPositiveTest with data: []
+152254 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method removeContactPositiveTest
+152254 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================

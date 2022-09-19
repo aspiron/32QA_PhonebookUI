@@ -1,0 +1,3 @@
+1490 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method loginPositiveTest with data: []
+14176 [Test worker] ERROR c.telran.phonebook.tests.TestBase - FAILED: test method loginPositiveTest Screenshot path: C:\Users\iohoh\Desktop\EDU\QA\projects_QA_Gradle\Phonebook_UI_07092022\screenshots\screen1662946051929.png
+14176 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================

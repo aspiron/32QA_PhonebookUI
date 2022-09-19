@@ -1,0 +1,6 @@
+1578 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderwith data: []
+13265 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider
+14197 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderwith data: []
+25857 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider
+26842 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderwith data: []
+38463 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider

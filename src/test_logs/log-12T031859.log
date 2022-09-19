@@ -1,0 +1,2 @@
+1559 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method loginPositiveTestwith data: []
+3884 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method loginPositiveTest

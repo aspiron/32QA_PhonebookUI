@@ -1,0 +1,8 @@
+1651 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver, surname=Kan, telephone=987654321, email=oliver@gm.com, address=Berlin, description=goalkiper]]
+15510 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProviderWithCsvFile
+16425 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver1, surname=Kan, telephone=187654321, email=oliver+1@gm.com, address=Berlin, description=goalkiper]]
+30088 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProviderWithCsvFile
+31041 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver2, surname=Kan, telephone=287654321, email=oliver+2@gm.com, address=Berlin, description=goalkiper]]
+44627 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProviderWithCsvFile
+45586 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProviderWithCsvFile with data: [Contact[name=Oliver3, surname=Kan, telephone=387654321, email=oliver+3@gm.com, address=Berlin, description=goalkiper]]
+59227 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProviderWithCsvFile

@@ -1,0 +1,6 @@
+1570 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [TestName, TestSurname, +797812345, email@mail.co, BerlinAdress, Description]
+13178 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider
+14088 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [OnemoreName, OnemoreSurname, +797324378, mail@gmail.co, SityAdress, About]
+25817 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider
+26795 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method addContactPositiveTestFromDataProvider with data: [MoreName, MoreSurname, +791059945, po4ta@mail.co, Simfero, What]
+38442 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Stop Test with method addContactPositiveTestFromDataProvider

@@ -1,0 +1,6 @@
+1818 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithoutPassword with data: []
+2733 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithoutPassword
+2734 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================
+3843 [Test worker] INFO  c.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithInvalidPassword with data: []
+4881 [Test worker] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithInvalidPassword
+4881 [Test worker] INFO  c.telran.phonebook.tests.TestBase - ====================================

@@ -1,0 +1,12 @@
+1743 [main] INFO  c.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithInvalidPassword with data: []
+2609 [main] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithInvalidPassword
+2609 [main] INFO  c.telran.phonebook.tests.TestBase - ====================================
+3535 [main] INFO  c.telran.phonebook.tests.TestBase - Start Test with method createAccountNegativeTestWithoutPassword with data: []
+4280 [main] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method createAccountNegativeTestWithoutPassword
+4280 [main] INFO  c.telran.phonebook.tests.TestBase - ====================================
+5191 [main] INFO  c.telran.phonebook.tests.TestBase - Start Test with method createAccountPositiveTest with data: []
+6503 [main] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method createAccountPositiveTest
+6503 [main] INFO  c.telran.phonebook.tests.TestBase - ====================================
+7409 [main] INFO  c.telran.phonebook.tests.TestBase - Start Test with method loginPositiveTest with data: []
+9721 [main] INFO  c.telran.phonebook.tests.TestBase - PASSED: test method loginPositiveTest
+9721 [main] INFO  c.telran.phonebook.tests.TestBase - ====================================
